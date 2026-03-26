@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-26T22:13:03.243Z
-Commit: Correct typo in configuration file
+Timestamp: 2026-03-26T22:13:13.247Z
+Commit: Patch API endpoint error handling
